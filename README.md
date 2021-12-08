@@ -133,19 +133,19 @@ This App Use `Gif` Format Themes Available The Source Themes.
 
 **Azure**
 
-![](D:\TkGuiPythonProject\Login\screenshots\azure.png)
+![](https://github.com/Class-Tooraj/AccountGui/blob/main/screenshots/azure.png)
 
 
 
 **Sun-Valley**
 
-![](D:\TkGuiPythonProject\Login\screenshots\sun-valley.png)
+![](https://github.com/Class-Tooraj/AccountGui/blob/main/screenshots/sun-valley.png)
 
 
 
 **Azeru & Sun-Valley**
 
-![](D:\TkGuiPythonProject\Login\screenshots\all.png)
+![](https://github.com/Class-Tooraj/AccountGui/blob/main/screenshots/all.png)
 
 ---
 
